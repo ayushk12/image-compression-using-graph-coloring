@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## IMAGE COMPRESSION USING GRAPH COLORING
 
-You can use the [editor on GitHub](https://github.com/ayushk12/image-compression-using-graph-coloring/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-### Uisng Mathlab and C++
+### Using Mathlab and C++
 
 Image compression is used in daily life basis and to avoid complexity of large image we compressed image uisng graph coloring.
 
-```markdown
-Syntax highlighted code block
+
 
 # Pixel
 ## Compression
