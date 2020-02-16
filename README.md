@@ -20,5 +20,6 @@ compression remains one of the difficult problems .Maintaining high compression 
 good image quality is possible at a more less high computational cost. One of the main goals for
 image data compression is to reduce the redundancy in image block as much as possible. That is ,
 it is very important to represent as an image with as few bits as possible while maintaining good
-image quality.                                                                            
+image quality. 
+## visit: https://ayushk12.github.io/image-compression-using-graph-coloring/
                                 
